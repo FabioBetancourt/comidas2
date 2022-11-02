@@ -1,0 +1,40 @@
+.titulo-1{
+    background-color: greenyellow;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/surtido-de-comida-r%C3%A1pida-y-arriba-hacia-abajo-borde-lateral-vista-sobre-un-fondo-banner-madera-oscura-diversos-alimentos-para-184618160.jpg");
+    background-size: cover;
+}
+
+
+.table{
+    color: rgb(89, 226, 26);
+    text-shadow: 0.1em 0.1em 0.2em;
+    font-style: italic;
+    font-size: 25px;
+    text-align: justify;
+}
+
+.button{
+    background-color: yellowgreen;
+    position:absolute;
+    top:600px;
+    left:900px;
+   
+}
+
+.center{
+    text-align: center;
+}
+
+.fondo{
+    background-image: url("https://img.freepik.com/fotos-premium/vista-frontal-deliciosa-hamburguesa-queso-carne-tomates-ensalada-verde-sobre-fondo-oscuro-sandwich-comida-rapida-comida-merienda-papas-fritas-plato-cena_140725-156244.jpg?w=2000");
+    background-size: cover;
+}
+
